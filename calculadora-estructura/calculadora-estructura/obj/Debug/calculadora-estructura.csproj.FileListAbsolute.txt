@@ -1,0 +1,6 @@
+/Users/Katia/Projects/calculadora-estructura/calculadora-estructura/bin/Debug/calculadora-estructura.exe
+/Users/Katia/Projects/calculadora-estructura/calculadora-estructura/bin/Debug/calculadora-estructura.pdb
+/Users/Katia/Projects/calculadora-estructura/calculadora-estructura/obj/Debug/calculadora-estructura.csproj.AssemblyReference.cache
+/Users/Katia/Projects/calculadora-estructura/calculadora-estructura/obj/Debug/calculadora-estructura.csproj.CoreCompileInputs.cache
+/Users/Katia/Projects/calculadora-estructura/calculadora-estructura/obj/Debug/calculadora-estructura.exe
+/Users/Katia/Projects/calculadora-estructura/calculadora-estructura/obj/Debug/calculadora-estructura.pdb
